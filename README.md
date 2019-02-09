@@ -1,2 +1,4 @@
 # myRepo
-This repo will contain some great volcano info
+This repo will contain some great volcano info. 
+
+Seven volcanoes have permanent lava lakes. s
