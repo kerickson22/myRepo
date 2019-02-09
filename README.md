@@ -1,4 +1,5 @@
 # myRepo
 This repo will contain some great volcano info. 
 
-Seven volcanoes have permanent lava lakes. s
+Seven volcanoes have permanent lava lakes. 
+
