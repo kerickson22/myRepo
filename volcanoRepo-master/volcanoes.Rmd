@@ -6,6 +6,9 @@ output: html_document
 
 ```{r setup, include=FALSE}
 #knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(dplyr)
+library(readxl)
 ```
 
 The following packages are required. If not already installed, do so using `install.packages`: 
@@ -42,10 +45,10 @@ ggplot(data=volcData, aes(x=volcano, y=elevation, fill=volcano)) +
 But Wait! Mauna Loa doesn't have an active lava lake. Let's get rid of it. Before we do that, this is a good time to save, add, commit, and push our work to GitHub. Go to your terminal and enter the following: 
 
 ```{r}
-#git -A
-#git -a -m "add initial lava lake bar chart" 
+#git add -A
+#git commit -a -m "add initial lava lake bar chart" 
   #Remember, our commit message is a breadcrumb for us to remember why we made this commit
-#git commit push origin
+#git push origin master
 
 ```
 
