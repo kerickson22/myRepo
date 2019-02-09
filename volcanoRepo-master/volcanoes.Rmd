@@ -75,7 +75,7 @@ ggplot(data=lavaData, aes(x= reorder (volcano, -elevation), y=elevation, fill=vo
 Save, add, commit, push! 
 
 ```{r}
-#git -A
+#git add -A
 #git -a -m "add revised lava lake bar chart that omits Mauna Loa" 
 #git commit push origin
 ```
