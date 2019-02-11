@@ -1,4 +1,5 @@
 # myRepo
+(Created as part of the Git Going with GitHub R Ladies workshop on February 9, 2019
 This repo will contain some great volcano info. 
 
 Seven volcanoes have permanent lava lakes. 
